@@ -49,7 +49,7 @@ function squareDigits(num){
 
   2. HTML-Academy
 
-###English
+### English
 
 #### A2 (Elementary English)
 
