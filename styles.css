@@ -1,0 +1,48 @@
+.content {
+  width: 1200px;
+  margin: auto;
+}
+
+.photo {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+}
+
+.name {
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+}
+
+.code-example {
+  background-color: rgba(181, 199, 240, 0.2);
+}
+
+.contacts
+.about
+.skills
+.code-example
+.experience
+.education
+.courses
+.english {
+  padding: 20px;
+}
+
+.ul {
+  margin-left: 20px;
+}
+
+footer {
+  display: inline-block;
+  margin-top: 10px;
+  height: 200px;
+  width: 100%;
+  background-color: rgb(181, 199, 240);
+}
+
+.rss-img {
+  width: 20%;
+}
